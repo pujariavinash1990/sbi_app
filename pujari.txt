@@ -1,2 +1,6 @@
 This is Pujari File
+<<<<<<< HEAD
 this file is modified by Avinash
+=======
+This file is modified by Akshay
+>>>>>>> 42179636ba567dee087a2be6cbf1d8ca4adc3442
